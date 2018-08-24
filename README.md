@@ -1,15 +1,15 @@
 # Diplom_SQL
 Проектная работа по модулю “SQL и получение данных”
-diplom.sql - Список SQL запросов с их описанием
-diplom_sql.py - Ipython Notebook, в котором отражены пункты 5-7
-Описание БД.pdf - Описание БД, ее таблиц, связей, а также выбранной бизнес области
-search_diviation.csv - Файл с результатами выгрузки из пункта 7
+#diplom.sql - Список SQL запросов с их описанием
+#diplom_sql.py - Ipython Notebook, в котором отражены пункты 5-7
+#Описание БД.pdf - Описание БД, ее таблиц, связей, а также выбранной бизнес области
+#search_diviation.csv - Файл с результатами выгрузки из пункта 7
 
-Дата-сеты
-id_info.csv
-sharings.csv
-all_desktop.csv
-searching.csv
+#Дата-сеты
+#id_info.csv
+#sharings.csv
+#all_desktop.csv
+#searching.csv
 
 
 ЧТО НУЖНО БЫЛО СДЕЛАТЬ
